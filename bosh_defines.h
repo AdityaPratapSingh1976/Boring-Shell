@@ -1,0 +1,7 @@
+#ifndef BOSH_DEFINES_H
+#define BOSH_DEFINES_H
+
+#define MAXCMDLENGTH 4096
+#define MAXARGLENGTH 256
+
+#endif
